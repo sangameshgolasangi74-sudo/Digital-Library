@@ -1,0 +1,6 @@
+{
+  "name": "BookBridge",
+  "description": "BookBridge – Digital Public Library and Book Exchange System connecting students, educators, and readers to buy, sell, exchange, borrow, and read open-access digital books.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
